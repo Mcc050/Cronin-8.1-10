@@ -1,0 +1,20 @@
+C:\Users\Michael\Desktop\VB\Cronin 8.1-10\Cronin 8.1-10\bin\Debug\Cronin 8.1-10.exe.config
+C:\Users\Michael\Desktop\VB\Cronin 8.1-10\Cronin 8.1-10\bin\Debug\Cronin 8.1-10.exe
+C:\Users\Michael\Desktop\VB\Cronin 8.1-10\Cronin 8.1-10\bin\Debug\Cronin 8.1-10.pdb
+C:\Users\Michael\Desktop\VB\Cronin 8.1-10\Cronin 8.1-10\bin\Debug\Cronin 8.1-10.xml
+C:\Users\Michael\Desktop\VB\Cronin 8.1-10\Cronin 8.1-10\obj\Debug\Cronin_8._1_10.Form1.resources
+C:\Users\Michael\Desktop\VB\Cronin 8.1-10\Cronin 8.1-10\obj\Debug\Cronin_8._1_10.Resources.resources
+C:\Users\Michael\Desktop\VB\Cronin 8.1-10\Cronin 8.1-10\obj\Debug\Cronin 8.1-10.vbproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\VB\Cronin 8.1-10\Cronin 8.1-10\obj\Debug\Cronin 8.1-10.exe
+C:\Users\Michael\Desktop\VB\Cronin 8.1-10\Cronin 8.1-10\obj\Debug\Cronin 8.1-10.xml
+C:\Users\Michael\Desktop\VB\Cronin 8.1-10\Cronin 8.1-10\obj\Debug\Cronin 8.1-10.pdb
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-10\Cronin 8.1-10\bin\Debug\Cronin 8.1-10.exe.config
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-10\Cronin 8.1-10\obj\Debug\Cronin 8.1-10.exe
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-10\Cronin 8.1-10\obj\Debug\Cronin 8.1-10.xml
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-10\Cronin 8.1-10\obj\Debug\Cronin 8.1-10.pdb
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-10\Cronin 8.1-10\bin\Debug\Cronin 8.1-10.exe
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-10\Cronin 8.1-10\bin\Debug\Cronin 8.1-10.pdb
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-10\Cronin 8.1-10\bin\Debug\Cronin 8.1-10.xml
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-10\Cronin 8.1-10\obj\Debug\Cronin_8._1_10.Form1.resources
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-10\Cronin 8.1-10\obj\Debug\Cronin_8._1_10.Resources.resources
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-10\Cronin 8.1-10\obj\Debug\Cronin 8.1-10.vbproj.GenerateResource.Cache
